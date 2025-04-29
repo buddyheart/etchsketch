@@ -1,1 +1,28 @@
+.square{
+    border: 2px solid black;
+}
 
+.column{
+    display: flex;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 960px;
+}
+
+.button{
+    width: 300px;
+    height: 150px;
+    font-family: sans-serif;
+    font-size: 24px;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+    border:5px solid black;
+    margin: 3%;
+
+
+}
